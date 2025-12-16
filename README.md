@@ -1,6 +1,5 @@
 <h1 align="center">Atsushi Hasumotoです。
-  先のめどはないけど、よろしく。別に無理してつながってもらわくて結構です。
-  コンピュータ業界での経歴は皆無です。
+コンピュータ業界での経歴は皆無です。更新はほぼありません。
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atsushi-rh&label=Profile%20views&color=0e75b6&style=flat" alt="atsushi-rh" /> </p>
 <a href="https://roadmap.sh/u/atsushi199xhasumoto"><img src="https://roadmap.sh/card/wide/66255143e699ec2b9b3a4b27?variant=dark" alt="roadmap.sh"/></a>
@@ -8,8 +7,8 @@
 
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atsushi-rh" alt="atsushi-rh" /></a> </p>
-<h2 align="left">FreeBSD , Fedora WorkStation ユーザ。</h2>
-<h3 align="left">つながっても良いなら、つながってね。</h3>
+<h2 align="left">FreeBSD , Windows ユーザ。</h2>
+<h3 align="left">つながりってくれるならお願いします。>つな>つ
 <p align="left">
 </p>
 
