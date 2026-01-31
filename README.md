@@ -6,7 +6,7 @@
 <br>
 
 <br>
-<h2 align="left">FreeBSD , Windows ユーザ。</h2>
+<h2 align="left">FreeBSD , Linux ユーザ。</h2>
 <h3 align="left">つながりってくれるならお願いします。</h3>
 <p align="left">
 </p>
