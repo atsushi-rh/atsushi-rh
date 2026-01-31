@@ -6,7 +6,6 @@
 <br>
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atsushi-rh" alt="atsushi-rh" /></a> </p>
 <h2 align="left">FreeBSD , Windows ユーザ。</h2>
 <h3 align="left">つながりってくれるならお願いします。</h3>
 <p align="left">
