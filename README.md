@@ -18,6 +18,6 @@
   <li><strong>Laravel</strong></li>
 </ul>
 <h1></h1>
-<h2 align="left">FreeBSD , Linux ユーザ。</h2>
-<h2 align="left">つながりってくれるならお願いします。</h2>
+<h2 align="left">FreeBSD , Linux ユーザ。<br>
+つながってくれるならお願いします。</h2>
 
