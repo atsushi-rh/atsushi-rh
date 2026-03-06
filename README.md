@@ -1,7 +1,7 @@
 # Atsushi Hasumoto
 
 こんにちは。プログラミングを学習中のAtsushiです。  
-コンピュータ業界での職歴はありませんが、毎日コツコツ勉強しています。
+コンピュータ業界での職歴はありません(某ゲーム会社でのQAテスターのみで某IT企業(セキュリティ系会社)にて、約2年半在籍しましたが、社員ではなく、研修生でした)が、毎日コツコツ勉強しています。
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=atsushi-rh&label=Profile%20views&color=0e75b6&style=flat" alt="atsushi-rh" />
