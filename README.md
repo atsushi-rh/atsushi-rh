@@ -1,7 +1,7 @@
 # 蓮本 篤志　Atsushi Hasumoto
 
 こんにちは。プログラミングを学習中のAtsushiです。  
-コンピュータ業界での職歴はありません(ゲーム会社のレベルファイブで、3ヶ月勤務のテストプレイヤー（アルバイト)のみで就労継続支援B型事業所GFTD FUKUOKA WORKS(セキュリティ系、システム開発会社)にて、福祉サービスの利用者として約2年半在籍しました。)が、毎日コツコツ勉強しています。
+コンピュータ業界での職歴はありません(ゲーム会社のレベルファイブで、PS2のタイトル「ローグギャラクシー」で3ヶ月勤務のテストプレイヤー（アルバイト)のみで就労継続支援B型事業所GFTD FUKUOKA WORKS(セキュリティ系、システム開発会社)にて、福祉サービスの利用者として約2年半在籍しました。)が、毎日コツコツ勉強しています。
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=atsushi-rh&label=Profile%20views&color=0e75b6&style=flat" alt="atsushi-rh" />
